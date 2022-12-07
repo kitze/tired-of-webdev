@@ -16,7 +16,7 @@ Fuck auto imports in WebStorm, seriously. I want my editor to import things on t
   
 ## React
 - You either have a 300 line component, or you have 2 choices: prop drilling for 30 levels, or add context and properly type the context. Ugh. Especially typing the context is a PITA. 
-- Why doesn't React do the work for me.  React feels like I'm hand coding assembly for speed.  Why am I memoizing things manually that it already knows I'm using.
+- Why doesn't React do the work for me?  React feels like I'm hand coding assembly for speed.  Why am I memoizing things manually that it already knows I'm using?
   
 ## Prisma
 - After running a db:migrate
