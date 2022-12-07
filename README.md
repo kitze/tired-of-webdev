@@ -1,6 +1,5 @@
 Some reasons why I'm tired of webdev. If you think something is fixable, please open a PR and tell me how. Thank you.
 
-# Apps
 ## WebStorm
 ### Imports
 Fuck auto imports in WebStorm, seriously. I want my editor to import things on the fly. I have the option "import on the fly" checked but it doesn't work.
@@ -9,7 +8,6 @@ Fuck auto imports in WebStorm, seriously. I want my editor to import things on t
 - Not suggesting auto-imports for components like <Text/>
 - If I'm using <Vertical> from the same library in 19384813 files, just import it from the same frickin library and don't ask me
 
-# Libraries/Tools
 ## Prisma
 - After running a db:migrate
   - I have to restart the dev server and studio
