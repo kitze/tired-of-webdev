@@ -15,6 +15,7 @@ Fuck auto imports in WebStorm, seriously. I want my editor to import things on t
 - After running a db:migrate
   - I have to restart the dev server and studio
   - I have to go to the generated types so my editor (WebStorm) can pick up the type changes
+- Enums cannot be imported on the client side as values, only as types. At least in a Blitz app. Prisma says
 
 ## Blitz
 In retrospect, going with blitz was not a smart idea. trpc + next-auth is the way to go
