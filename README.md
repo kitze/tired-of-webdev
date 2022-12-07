@@ -10,7 +10,12 @@ Fuck auto imports in WebStorm, seriously. I want my editor to import things on t
 - When working with Blitz and Prisma
   - auto imports from "db" don't work at all
   - returns from resolvers show yellow squiggly lines (FML)
+- Importing an icon from react-icons gets imported from react-icons/all instead of the correct import (like react-icons/fa) and it breaks the app
 
+  
+## React
+- You either have a 300 line component, or you have 2 choices: prop drilling for 30 levels, or add context and properly type the context. Ugh. Especially typing the context is a PITA. 
+  
 ## Prisma
 - After running a db:migrate
   - I have to restart the dev server and studio
