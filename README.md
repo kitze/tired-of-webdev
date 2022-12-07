@@ -1,4 +1,5 @@
-Some reasons why I'm tired of webdev. If you think something is fixable, please open a PR and tell me how. Thank you.
+Some reasons why I'm tired of webdev. Please don't add your reasons, I have enough already. 
+If you think there's a fix for something, please open a PR and tell me how. Thank you.
 
 ## WebStorm
 ### Imports
