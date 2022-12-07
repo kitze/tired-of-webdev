@@ -21,6 +21,9 @@ Fuck auto imports in WebStorm, seriously. I want my editor to import things on t
 - After running a db:migrate
   - I have to restart the dev server and studio
   - I have to go to the generated types so my editor (WebStorm) can pick up the type changes
+    -> Make the client be generated outside of node_modules and make it gitignored
+    -> https://www.prisma.io/docs/reference/api-reference/prisma-schema-reference#datasource
+    -> `output` option 
 - Enums cannot be imported on the client side as values, only as types. At least in a Blitz app. Prisma says
 
 ## Blitz
