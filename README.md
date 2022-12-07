@@ -33,3 +33,7 @@ In retrospect, going with blitz was not a smart idea. trpc + next-auth is the wa
 ## react-hook-form
   So annoying. Everything about it is annoying I honestly don't even know why I'm using it.
   - Banging my head against the wall because of "caching" issues. I'm navigating from one page to another page in Next.js, why does a form keep old values ??? It doesn't make any sense.
+  
+## Blitz/Next
+Not sure who's fault it is, figure it out.
+- When my page fully reloads, I want to punch a wall. Everything should hot reload. All the time. Always. 
