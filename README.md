@@ -16,6 +16,7 @@ Fuck auto imports in WebStorm, seriously. I want my editor to import things on t
   
 ## React
 - You either have a 300 line component, or you have 2 choices: prop drilling for 30 levels, or add context and properly type the context. Ugh. Especially typing the context is a PITA. 
+- Why doesn't React do the work for me.  React feels like I'm hand coding assembly for speed.  Why am I memoizing things manually that it already knows I'm using.
   
 ## Prisma
 - After running a db:migrate
@@ -44,3 +45,9 @@ In retrospect, going with blitz was not a smart idea. trpc + next-auth is the wa
 ## Blitz/Next
 Not sure who's fault it is, figure it out.
 - When my page fully reloads, I want to punch a wall. Everything should hot reload. All the time. Always. 
+
+## General
+- Why isn't web development like Godot, Unity or Construct.  I should just be able to layout things visually then attach "behaviors" to those things.  Having a design in Figma is useless.  What if a 3d model couldn't be imported in Unity and you had to literally re-create the model from scratch in Unity.  That's literally what we're doing.
+
+## Tailwind
+- Literally the only saving grace of web development
