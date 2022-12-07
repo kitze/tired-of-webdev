@@ -6,8 +6,8 @@ If you think there's a fix for something, please open a PR and tell me how. Than
 Fuck auto imports in WebStorm, seriously. I want my editor to import things on the fly. I have the option "import on the fly" checked but it doesn't work.
 - Sometimes it imports things twice (super frustrating)
 - Auto-import {Box} from "ink" even though in 13948138413 files I import it from @mantine-ui/core
-- Not suggesting auto-imports for components like <Text/>
-- If I'm using <Vertical> from the same library in 19384813 files, just import it from the same frickin library and don't ask me
+- Not suggesting auto-imports for components like the Text component
+- If I'm using Vertical from the same library in 19384813 files, just import it from the same frickin library and don't ask me where to import it from!!!
 - When working with Blitz and Prisma
   - auto imports from "db" don't work at all
   - returns from resolvers show yellow squiggly lines (FML)
